@@ -55,4 +55,5 @@ and it'll print out the information saved in the image.
 
 ## Contact
 
-Bugs can be reported on the GitHub page or DM'd to me on Discord (GMS#5303).
+Bugs can be reported on the GitHub page or DM'd to me on Discord
+(genericmadscientist).
