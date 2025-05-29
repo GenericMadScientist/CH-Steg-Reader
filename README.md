@@ -34,12 +34,13 @@ and it'll print out the information saved in the image.
   * Not as reliable as you'd like. The song hash does enable you to check the
     chart (it's the [MD5 hash](https://en.wikipedia.org/wiki/MD5) of the
     notes.chart or notes.mid file). But suffice to say there are ways to trick
-    Clone Hero. If you want a stronger means of proof, look to ScoreSpy.
+    Clone Hero. If you want a stronger means of proof, look forward to replays
+    and leaderboards.
 
 * What versions does this support?
   * Principal testing has been on the PTB v3493 and v23.2.2, but I have put a
     bit of effort into versions since the first v22 release, which added the
-    steganography. The latest version I've checked is v1.1.0.4261-PTB.
+    steganography. The latest version I've checked is v1.1.0.4990-PTB.
 
 * My v3075 screenshot is missing player data, why?
   * Clone Hero bug, nothing I can do.
