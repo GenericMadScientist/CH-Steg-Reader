@@ -38,11 +38,11 @@ and it'll print out the information saved in the image.
     and leaderboards.
 
 * What versions does this support?
-  * Principal testing has been on the PTB v3493 and v23.2.2, but I have put a
-    bit of effort into versions since the first v22 release, which added the
-    steganography. The latest version I've checked is v1.1.0.4990-PTB.
+  * Principal testing has been on PTB 3493 and v23.2.2, but I have put a bit of
+    effort into versions since the first v22 release, which added the
+    steganography. The latest version I've checked is v1.1.0.5520-PTB.
 
-* My v3075 screenshot is missing player data, why?
+* My PTB 3075 screenshot is missing player data, why?
   * Clone Hero bug, nothing I can do.
 
 * My ancient v22 screenshot has lots of extra player data, why?
@@ -50,9 +50,12 @@ and it'll print out the information saved in the image.
     score is intended, nor have I put any time into trying to work one out.
 
 * Any other relevant Clone Hero bugs?
-  * Off the top of my head, early score-saving PTBs failed to add the solo
-    bonuses to each player's score. I check on the version and handle this for
-    you, so you don't have to worry about it.
+  * Early score-saving PTBs failed to add the solo bonuses to each player's
+    score. I check on the version and handle this for you, so you don't have to
+    worry about it.
+
+  * Screenshots from PTB 5520 have version 7, when they should be version 8. The
+    steg reader also checks for this and fixes it in the background.
 
 ## Contact
 
