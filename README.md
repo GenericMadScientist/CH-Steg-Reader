@@ -40,7 +40,7 @@ and it'll print out the information saved in the image.
 * What versions does this support?
   * Principal testing has been on PTB 3493 and v23.2.2, but I have put a bit of
     effort into versions since the first v22 release, which added the
-    steganography. The latest version I've checked is v1.1.0.5655-PTB.
+    steganography. The latest version I've checked is v1.1.0.5684-PTB.
 
 * My PTB 3075 screenshot is missing player data, why?
   * Clone Hero bug, nothing I can do.
@@ -57,7 +57,11 @@ and it'll print out the information saved in the image.
   * Screenshots from PTB 5520 have version 7, when they should be version 8. The
     steg reader also checks for this and fixes it in the background.
 
+  * Screenshots from PTB 5684 have version 9, when they should be version 10.
+    Also fixed automatically.
+
 ## Contact
 
 Bugs can be reported on the GitHub page or DM'd to me on Discord
 (genericmadscientist).
+
